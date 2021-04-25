@@ -1,0 +1,23 @@
+update 2:
+-answering[comment] to posted problem
+-likes in problem
+-message system working may problem due to working on profile page
+-add users[student as friend & teacher as class teacher] error left
+
+update1:
+-tacher student user sign up
+-common log in for student & teacher
+-admin log in
+-admin add/delete/update course
+-student teacher add/remove courses to their profile
+-posting problem with their selected subject
+-viewing posted problems only their respective subjects only
+-log out[admin/teacher/student]
+
+instruction:
+-name database as "oc"
+-admin username:admin password:admin
+-for normal sign up! 
+
+fatiha@gmail.com
+fatiha011152041
